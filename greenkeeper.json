@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "node_vm2/vm-server/package.json"
+      ]
+    }
+  }
+}
