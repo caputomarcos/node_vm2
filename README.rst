@@ -1,6 +1,10 @@
 node_vm2
 ========
 
+.. image:: https://badges.greenkeeper.io/eight04/node_vm2.svg
+   :alt: Greenkeeper badge
+   :target: https://greenkeeper.io/
+
 .. image:: https://api.codacy.com/project/badge/Grade/fb30c7193b6b43cf818457e3ff23e60c
    :target: https://www.codacy.com/app/eight04/node_vm2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=eight04/node_vm2&amp;utm_campaign=Badge_Grade
 
